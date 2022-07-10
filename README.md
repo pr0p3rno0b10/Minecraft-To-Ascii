@@ -2,6 +2,8 @@
 
 Converting regular Minecraft textures to Ascii
 
+STATUS ON COMPLETION: 3/4 🥴
+
 Here is a description of what all of the files do here:
 
 | File | Description |
@@ -24,4 +26,15 @@ Using the built-in os library in python, this program goes through the textures 
 
 Then it writes all of the files that are pngs and aren't part of the textures/font sub-directory to filepaths.txt
 
-Note *This is a one time use file*
+Note: *This is a one time use file*
+
+Step 2 - convert images to text
+
+**This part is not done yet**
+Almost though.
+
+Step 3 - convert text back to images
+
+**This part is not done yet**
+
+
