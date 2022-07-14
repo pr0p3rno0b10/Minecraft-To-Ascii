@@ -18,7 +18,7 @@ Here is a description of what all of the files do here:
 
 Way this project works:
 
-Step 1 - find the filepaths:
+## Step 1 - find the filepaths:
 
 Where does this step happen? findFilepaths.py & filepaths.txt & textures
 
@@ -28,12 +28,12 @@ Then it writes all of the files that are pngs and aren't part of the textures/fo
 
 Note: *This is a one time use file*
 
-Step 2 - convert images to text
+## Step 2 - convert images to text
 
 **This part is not done yet**
 Almost though.
 
-Step 3 - convert text back to images
+## Step 3 - convert text back to images
 
 **This part is not done yet**
 
