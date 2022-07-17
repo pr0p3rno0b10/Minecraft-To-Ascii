@@ -16,7 +16,7 @@ Here is a description of what all of the files do here:
 | findFilepaths.py | A program to get all of the filepaths from textures |
 | filepaths.txt | Where all of those filepaths are stored |
 
-Way this project works:
+# How this project works:
 
 ## Step 1 - find the filepaths:
 
