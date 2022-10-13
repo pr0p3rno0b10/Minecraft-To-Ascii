@@ -6,7 +6,7 @@ filepaths = []
 for (dir_path, dir_names, file_names) in os.walk("textures/"):
   for file_name in file_names:
   	filepaths.append(os.path.join(dir_path, file_name))
-
+for
 
 with open("filepaths.txt", "w") as f:
 	for filepath in filepaths:
